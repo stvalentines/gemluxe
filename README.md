@@ -1,2 +1,2 @@
-# gemluxe
+https://stvalentines.github.io/gemluxe/
  
