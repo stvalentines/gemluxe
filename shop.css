@@ -46,10 +46,9 @@ nav {
   .container {
     display: flex;
     justify-content: space-between;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     max-width: 1200px;
     margin: 50px auto;
-    overflow-x: auto;
   }
   
   .product-block {
