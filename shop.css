@@ -46,7 +46,7 @@ nav {
   .container {
     display: flex;
     justify-content: space-between;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     max-width: 1200px;
     margin: 50px auto;
   }
